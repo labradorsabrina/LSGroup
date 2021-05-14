@@ -16,7 +16,7 @@ Reform the DB structure creating a relational database system to track their sal
 
 ## Entity Relationship Diagram ##
 
- 
+ ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
 
 ##	Field Description ##
@@ -123,6 +123,7 @@ Emp_num | The number of employees occupied in the warehouse.
 Shipping | Shows if the warehouse ships locally or globally.
 
 # Suggestions for further development.
+
 The needs of a franchise set of business trackers are vast. This application barely scratches the tip of the iceberg when it comes to covering all of them. Here are some suggestions for improving upon this application in the future.
 
 •	Many more sales need to be recorded. An average of 30.000 sales per year for 100 employees should be expected by a healthy business chain.
