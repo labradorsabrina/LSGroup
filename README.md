@@ -1,4 +1,4 @@
-#  :pushpin: LS Associates Group Sales Tracker System #
+#  :pushpin: Sales Tracker System for LS Associates Group  #
 This is a project based on MySQL to partially create the business database structure for all the gaming store branches of "LS Associate Group"
 
 ##	The Problem ##
