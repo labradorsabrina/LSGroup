@@ -16,7 +16,7 @@ Reform the DB structure creating a relational database system to track their sal
 
 ## Entity Relationship Diagram ##
 
- ![Alt text](https://github.com/labradorsabrina/LSGroup/blob/main/Model(LSGroup).jpg)
+ ![Alt text](https://github.com/labradorsabrina/LSGroup/blob/main/Model/UML.png)
 
 
 ##	Entities Description ##
