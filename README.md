@@ -19,9 +19,9 @@ Reform the DB structure creating a relational database system to track their sal
  ![Alt text](https://github.com/labradorsabrina/LSGroup/blob/main/Model(LSGroup).jpg)
 
 
-##	Field Description ##
+##	Entities Description ##
 
-### 1. Customers ###
+### 1. Customer ###
 Field | Description
 ----------------|-------------
 Cust_id | A unique id for every registered customer. This application will only monitor purchases made from registered customers.
@@ -32,7 +32,7 @@ Cust_class | The class of the customer, customers could change class based on ac
 Cust_card_code | Some of the customers have opted to sign in for a card. The card collects credits based on a number of things like purchases or store events.
 Prime | Prime is a paid service that a customer may choose to sign on, that will remove the urgency fees on online orders. Other bonuses like extra credits can be awarded to prime members.
 
-### 2. Payment Method ###
+### 2. Costumer Card (Loyalty Plan) ###
 
 Field | Description
 ------|-----------
