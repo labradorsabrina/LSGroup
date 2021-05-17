@@ -1,5 +1,5 @@
 #  :pushpin: Sales Tracker System for LS Associates Group  #
-This is a project based on MySQL to partially create the business database structure for all the gaming store branches of "LS Associate Group"
+This is a project based on MySQL to partially create the business database structure for all the gaming store branches of ["LS Associate Group"](https://instagram.com/labcel_?igshid=1jl8x18jq5hcp)
 
 ##	The Problem ##
 "LS Associate Group" needs a chipper solution for their tracking and managing sales data system, they cannot afford their actual license.
